@@ -1,0 +1,133 @@
+.container{
+    width:970px;
+    height:850px;
+    background-color:rgb(10, 10, 78)
+}
+.header img{
+    display:inline-block;
+    width:400px;
+    
+}
+.header h5{
+    display:inline-block;
+    margin-left:300px;
+    vertical-align: top;
+    
+    color:white;
+    
+}
+.header p{
+    margin-left:800px;
+    margin-top:-90px;
+    font-size:15px;
+    
+}
+.header p a{
+    color:yellow;
+}
+.search{
+    margin-left:700px;
+}
+.search input{
+    text-align:center;
+    padding:10px;
+    border:5px solid silver;
+    border-radius:5px;
+}
+.search button{
+    color:white;
+    text-align:center;
+    background-color:blue;
+    border-radius:5px;
+}
+.search .square{
+    
+    margin-right: 5px;
+    padding:10px;
+    background-color:rgb(24, 18, 18);
+    border-radius:5px;
+}
+.bar{
+    background-color:rgb(28, 28, 207);
+    height:40px;
+    width:800px;
+    margin-left:70px;
+    padding:5px;
+    border-radius:5px;
+    
+}
+.bar li{
+    display:inline-block;
+    padding: 10px;
+    margin-left:30px;
+    color:white;
+}
+.sideleft{
+    display:inline-block;
+    
+    margin-left: 20px;
+    padding:50px;
+    width:200px;
+    font-size:15px;
+    color:white;
+    text-align:center;
+}
+.sideleft a{
+    color:white;
+}
+
+.rightside{
+    display:inline-block;
+    
+    margin-left:200px;
+    vertical-align: top;
+    text-align:center;
+    width:300px;
+}
+.rightside p{
+    color:white;
+}
+.rightside h3{
+    font-size:15px;
+    color:yellow;
+    font-style:oblique;
+}
+.rightside h4{
+    color:white;
+}
+
+.main{
+    
+    background-color:white;
+    padding:0px;
+}
+.main .one{
+    
+    width:300px;
+    display:inline-block;
+    margin-left:100px;
+    vertical-align:top; 
+}
+.one ul li{
+    color:rgb(123, 123, 228);
+    font-size:12px;
+}
+.one h5{
+    text-align:center;
+}
+.one p{
+    font-size:14px;
+}
+.one p span{
+    color:rgb(123, 123, 228);
+}
+.footer{
+   
+    background-color:rgb(123, 123, 228);
+}
+.footer h5{
+    width:200px;
+    display:inline-block;
+    margin-left: 100px;
+    color:white;
+}
